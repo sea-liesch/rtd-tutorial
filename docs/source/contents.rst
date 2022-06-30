@@ -27,8 +27,4 @@ context
 ..code:: python
 
 .. image:: /images/yammy.png
-.. image:: /images/yammy1.jpg
-.. image:: /images/yammy2.png
-.. image:: /images/yammy3.jpg
-
 https://www.cnn.com
