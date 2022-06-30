@@ -4,6 +4,7 @@ you would expect to find help here
 
 
 options
+-------
 ========= ====== ======= ============
 Platform   No      cost    flexible?
 ========= ====== ======= ============
