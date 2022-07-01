@@ -12,6 +12,9 @@ context
     here it is
 
     ``terms``
+
+    edit
+    -----
     
 .. caution:: 
     Please be warned!
