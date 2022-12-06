@@ -1,5 +1,4 @@
 -Welcome to WA Tech Advance documentation.
-// 
 ====================================
 
 .. toctree::
