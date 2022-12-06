@@ -1,32 +1,21 @@
--Welcome to RTD Test's docu-mentation!
+-Welcome to WA Tech Advance documentation.
+// 
 ====================================
-codeblock.::
-    
-    print 'hello'$
-    >>hello$
 
 .. toctree::
    :maxdepth: 2
-   :caption:  My Conteaants:
+   :caption:  Help by type of translation:
 
-   license
-   help
-   about us
-   contents
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Written
+   Oral
+   Deaf Owned Translation. (DOT)
+   Print on Demand (POD)
 
 
+   :caption: Help by technology:
 
-#. Step 1.
-#. Step 2.
-#. Step 3.
-
-
-change
-------
+   BTT-Writer Desktop (Windows, Mac or Linux)
+   BTT-Writer Android
+   Orature
+   BTT-Recorder (Android only)
+   
